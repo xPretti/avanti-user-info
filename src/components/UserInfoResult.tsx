@@ -7,8 +7,6 @@ interface UserInfo {
     name: string
     avatar_url: string
     bio: string
-    public_repos: number
-    followers: number
 }
 
 interface Props {
